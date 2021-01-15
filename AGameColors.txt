@@ -1,0 +1,4 @@
+rgba(23, 30, 38, 1)
+colors = ["#2185C5", "#7ECEFD", "#FFCAD4", "#FFF6E5"];
+bulletColors = ["#FF7F66", "#B0D0D3", "#C08497", "#FFFFFF"];
+moreColors = ["#20A4F3", "#BFDBF7", "#66D7D1", "#0075F2", "#096B72"];
